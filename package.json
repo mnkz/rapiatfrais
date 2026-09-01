@@ -1,0 +1,13 @@
+{
+  "name": "rapiatfrais",
+  "version": "2.0.0",
+  "description": "Notes de frais. Fork de GestiStock. On n'en parle pas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"pas de tests, JMR a dit que c'est payant\" && exit 0"
+  },
+  "author": "Gérard Lebeau (bac 2009, survivant de GestiStock)",
+  "license": "MIT-mais-jmen-fiche",
+  "dependencies": {}
+}
