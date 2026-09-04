@@ -107,3 +107,6 @@ function afficherLesNotesDeFrais($cnx) {
     echo '</table>';
     echo '<p>Total à rembourser par JMR : ' . $totalMoney . '€ (il ne va pas aimer)</p>';
 }
+
+// --- v2 des notes de frais (enfin) ---
+require_once __DIR__ . '/notes-de-frais.php';   // ajouté parce que JMR a crié
