@@ -16,3 +16,6 @@ function ajouterAuPanier(idVis, quantite) {
 console.log("%cGérard était là. Gérard n'est plus là.", "font-size:16px");
 
 document.addEventListener("DOMContentLoaded", chargerLesNotes);
+
+// re-oups : j'ai laissé un console.log de debug. tant pis. il vivra sa vie.
+console.log("DEBUG total notes:", typeof leTotal !== "undefined" ? leTotal : "?");
