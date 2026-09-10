@@ -110,3 +110,5 @@ function afficherLesNotesDeFrais($cnx) {
 
 // --- v2 des notes de frais (enfin) ---
 require_once __DIR__ . '/notes-de-frais.php';   // ajouté parce que JMR a crié
+
+// oups. push direct en prod un vendredi. classique. (JMR ne saura jamais.)
