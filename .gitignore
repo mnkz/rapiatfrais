@@ -1,0 +1,7 @@
+# .gitignore — ajouté le 11/09. "mieux vaut tard que jamais" (spoiler : c'était jamais).
+node_modules/
+*.log
+.env
+.DS_Store
+# note à moi-même : le .env est DÉJÀ dans l'historique. ce .gitignore ne sert donc à rien.
+# mais ça fait pro sur la page GitHub. voilà. c'est pour le CV.
